@@ -10,7 +10,7 @@ const testFullResult = `├───project
 │	└───gopher.png (70372b)
 ├───static
 │	├───a_lorem
-│	│	├───dolor.txt (empty)
+│	│	├─https://github.com/UmalatDukuev/go_hw.git─dolor.txt (empty)
 │	│	├───gopher.png (70372b)
 │	│	└───ipsum
 │	│		└───gopher.png (70372b)
